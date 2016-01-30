@@ -60,3 +60,6 @@ The DocFetcher launchers for all platforms can be found under dist/launchers.
 The DocFetcher.exe launchers in that folder have been created with Launch4J,
 according to the settings in dev/launch4j-config.txt, and using the icon file
 dev/DocFetcher.ico.
+
+
+Testing
